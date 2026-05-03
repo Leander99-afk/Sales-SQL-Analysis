@@ -38,11 +38,10 @@ The dataset contains 300 sales records with order details, customer details, reg
 
 ## Key Insights
 
-* Customer C003 generated the highest revenue (\~305k)
-* Top 5 customers contribute a major portion of total sales
-* Revenue distribution shows dependency on high-value customers
-* Opportunity to improve engagement for mid and low-tier customers
-
+- Rohan Mehta is the highest revenue-generating customer (~305k)
+- Top 5 customers contribute a significant share of total revenue
+- Revenue is concentrated among a few high-value customers
+- Opportunity exists to increase revenue by targeting mid-tier customers
 
 
 ## Resume Bullet
